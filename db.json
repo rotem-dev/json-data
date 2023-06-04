@@ -2,7 +2,7 @@
   "data": {
     "maxPlayers": 1,
     "secondsBeforeGameStart": 2,
-    "useDebugGrid": true,
+    "useDebugGrid": false,
     "multiplierByRows": [ 100, 200, 300, 400 ],
     "debugGrid": [	
                     [1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
