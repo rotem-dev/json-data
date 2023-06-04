@@ -1,7 +1,9 @@
 {
   "data": {
-    "numberOfPlayers": 3,
-    "cellSize": 3,
+    "maxPlayers": 3,
+    "multiplierByRows": 3,
+    "secondsBeforeGameStart": 2,
+    "useDebugGrid": true,
     "debugGrid": [	
                     [1, 1, 1, 1, 1, 1, 0, 1, 1, 1],
                     [1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
