@@ -1,6 +1,6 @@
 {
   "data": {
-    "maxPlayers": 1,
+    "maxPlayers": 2,
     "secondsBeforeGameStart": 2,
     "useDebugGrid": false,
     "multiplierByRows": [ 100, 200, 300, 400 ],
